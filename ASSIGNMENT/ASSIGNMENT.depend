@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1558631903 source:c:\users\dell\documents\new folder\assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1558636874 source:d:\csc107.20 final assignment\assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
